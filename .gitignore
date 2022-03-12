@@ -1,0 +1,9 @@
+# for gradle
+.gradle/
+
+# for java artifact & build
+out/
+build/
+
+# for idea
+.idea/
